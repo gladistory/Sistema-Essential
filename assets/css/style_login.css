@@ -1,0 +1,103 @@
+html {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 16px;
+}
+
+body {
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #141414;
+  height: 70px;
+}
+
+.ho-logo {
+  width: 44px;
+  height: 44px;
+}
+
+.login-info {
+  width: 335px;
+}
+
+.form-container {
+  width: 335px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-login {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 22px;
+  padding-top: 40px;
+  font-family: "proxima-nova-condensed", sans-serif;
+}
+
+.login-description {
+  color: #666666;
+  font-size: 18px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+strong {
+  color: #141414;
+  text-decoration: underline;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 70px);
+}
+
+.logo-ipsun {
+  width: 175px;
+  height: 33px;
+}
+
+input {
+  width: 334.5px;
+  height: 48px;
+  border: 1px solid #cccccc;
+  opacity: 1;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.button-client {
+  border: none;
+  text-decoration: none;
+  background-color: #141414;
+  color: #ffff;
+  width: 100%;
+  height: 48px;
+  margin-top: 30px;
+  border-radius: 4px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.button-client:hover {
+  background-color: #3d3935;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  font-size: 16px;
+  color: #3d3935;
+}
