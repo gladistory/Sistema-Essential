@@ -21,6 +21,52 @@ body {
   position: fixed;
 }
 
+.arrow-down {
+  width: 15px;
+  height: 10px;
+  color: #cccccc;
+  padding-left: 11px;
+}
+
+.dropdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dropdown a {
+  display: block;
+  text-decoration: none;
+  color: #cccccc;
+  margin-top: 33px;
+  font-size: 14px;
+  padding-left: 15px;
+}
+
+.dropdown .content {
+  background-color: #000000;
+  width: 180px;
+  min-height: 360px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  display: none;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 21px;
+}
+
+.dropdown:hover .content {
+  display: block;
+}
+
+.dropdown .bt-dropdown {
+  border: none;
+  text-decoration: none;
+  background-color: #000000;
+  padding-left: 11px;
+  cursor: pointer;
+}
+
 .icon-user {
   color: #cccccc;
   width: 25px;
