@@ -1,5 +1,5 @@
 # Trilha de capacitação em tecnologia
-## Projeto de construção de front-end para CRUD utilizando como linguagem o PHP.
+Projeto de construção de front-end para cadastro de produtos e clientes. Futuramente vamos adiconar algumas funcionalidades utilizando linguagem PHP e banco de dados.
 
 ## Tela de Login User
 
