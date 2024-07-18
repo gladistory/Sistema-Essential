@@ -9,6 +9,10 @@ Projeto de construção de front-end para cadastro de produtos e clientes. Futur
 
 ![image](https://github.com/gladistory/tela-login-essential/assets/69911251/81ef806e-f650-470e-b7e5-2937cd0a1455)
 
+![image](https://github.com/user-attachments/assets/09ee9de5-8ab0-4e5c-8f30-2dd97e18e90c) ![image](https://github.com/user-attachments/assets/e6e3b715-c40a-480e-9a06-3a30a9faeac4)
+
+
+
 ## Tela Cadastro de produto
 
 ![image](https://github.com/gladistory/tela-login-essential/assets/69911251/b28671f6-abb8-4447-9a22-f65470a661f9)
